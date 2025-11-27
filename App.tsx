@@ -184,7 +184,7 @@ const App: React.FC = () => {
            whileTap={{ scale: 0.98 }}
         >
           <a 
-            href="https://example.com" // Replace with actual link
+            href="https://chenfengtechweb.dpdns.org/" // Replace with actual link
             target="_blank" 
             rel="noopener noreferrer"
             className="block w-full text-center relative group"
